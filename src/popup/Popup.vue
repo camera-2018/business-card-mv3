@@ -2,7 +2,7 @@
 import { useImage } from '@vueuse/core'
 const avatarUrl = 'https://s1.ax1x.com/2023/01/23/pSYuIYD.png'
 const waka = 'https://wakatime.com/badge/user/84476697-3421-4720-bcdc-efb5c0fbc1b8.svg?style=flat-square'
-const kita = 'https://picxyxsw.oss-cn-hangzhou.aliyuncs.com/kita.gif'
+const kita = 'https://www.z4a.net/images/2023/01/28/kita.gif'
 const { isLoading } = useImage({ src: avatarUrl })
 const { isLoading_waka } = useImage({ src: waka })
 const { isLoading_kita } = useImage({ src: kita })
